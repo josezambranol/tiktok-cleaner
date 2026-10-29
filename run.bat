@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul
 title TikTok Auto Cleaner Pro - CLI Edition
 cd /d "%~dp0"
 

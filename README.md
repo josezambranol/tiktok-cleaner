@@ -69,6 +69,12 @@ run.bat
 python cleaner.py
 ```
 
+**Opción C (Test de Diagnóstico y Salud):**
+Para comprobar que Chrome, Selenium y los scripts de segundo plano se comunican correctamente:
+```bash
+python test_verification.py
+```
+
 ---
 
 ## 📖 Guía Paso a Paso de Uso
